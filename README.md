@@ -23,3 +23,5 @@ git lg          # 图形化提交历史
 git ci -m "说明" # 提交
 git last        # 看最后一次提交
 ```
+
+- [x] 推送到 GitHub（已验证）
